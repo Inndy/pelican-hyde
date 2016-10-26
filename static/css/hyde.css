@@ -84,6 +84,12 @@ html {
   font-size: 2.4rem;
 }
 
+.sidebar-about h4 {
+  color: #eee;
+  margin: 0;
+  font-weight: normal;
+}
+
 .sidebar-about .lead {
   font-size: .8rem;
 }
